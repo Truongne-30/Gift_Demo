@@ -1,5 +1,5 @@
 const PHRASES = [
-  "Nguyễn Lê VIết Trưởng❤️Trần Thị Dung",
+  "Nguyễn Lê Viết Trưởng❤️Trần Thị Dung",
   "Happy 1st Anniversity",
   "Valentine vui vẻ ❤️",
   "Có Dung, mọi thứ đều trở nên kỳ diệu 🌙 💖",
